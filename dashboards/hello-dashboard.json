@@ -18,7 +18,7 @@
       },
       "options": {
         "mode": "markdown",
-        "content": "# 🚀 Grafana GitOps PoC\n\nIf you can see this, Git Sync is working!\n\nVersion: **v1**"
+        "content": "# 🚀 Grafana GitOps PoC\n\nIf you can see this, Git Sync is working!\n\nVersion: **v2**"
       }
     }
   ],
